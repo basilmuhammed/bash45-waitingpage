@@ -107,6 +107,7 @@ body {
   height: 100vh;
   background-color: #141414;
   background: url(./img/bg-dark.jpg);
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
